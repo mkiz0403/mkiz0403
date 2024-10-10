@@ -2,8 +2,8 @@
 
 <div> 
 <span> 
-  Hi! Welcome to Taejeong Github 👋 </br>
-
+  Hi! Welcome to Taejeong Github 👋 
+  </br>
   I'm studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻
   
   I have a healthy body and enjoy fitness.🏋🏻‍♂️ (S.B.D Total: 540kg)💪🏼
