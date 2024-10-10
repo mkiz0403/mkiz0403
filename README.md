@@ -8,6 +8,8 @@ I have a healthy body and enjoy fitness. (S.B.D Total: 540kg 💪🏼)
 
 My dream is to create products that can make your life better and more enjoyable.
 
+</br>
+
 **Platforms & Languages**
 
 <div>
