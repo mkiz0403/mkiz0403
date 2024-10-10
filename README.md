@@ -2,7 +2,7 @@
 
 <div> 
 <span> 
-  Hi! Welcome to Taejeong Github 👋 
+  Hi! Welcome to Taejeong Github.👋 
   
   I'm studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻
   
