@@ -5,7 +5,7 @@
   Hi! Welcome to Taejeong Github 👋 </br>
 
   I have experience in ERP product planning and management at a startup.</br> 
-  I am currently studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻
+  I'm currently studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻
   
   I love interacting with people and aim for smooth and empathetic communication.🌈
   
