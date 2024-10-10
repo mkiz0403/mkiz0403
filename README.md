@@ -4,12 +4,9 @@ Hi! Welcome to Taejeong Github.👋
 
 I'm studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻 
 
-I have a healthy body and enjoy fitness.🏋🏻‍♂️ (S.B.D Total: 540kg)💪🏼
+I have a healthy body and enjoy fitness. (S.B.D Total: 540kg 💪🏼)
 
-My dream is to create products that can make your life better and more enjoyable.⭐️
-
-
-<h3> ✨ Skills</h3>
+My dream is to create products that can make your life better and more enjoyable.
 
 **Platforms & Languages**
 
