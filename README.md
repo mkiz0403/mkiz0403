@@ -4,17 +4,11 @@
 <span> 
   Hi! Welcome to Taejeong Github 👋 </br>
 
-  I have experience in ERP product planning and management at a startup.</br> 
-  I'm currently studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻
+  I'm studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻
   
-  I love interacting with people and aim for smooth and empathetic communication.🌈
-  
-  I have a healthy body and enjoy fitness.🏋🏻‍♂️ </br>
-  (Squat: 190kg , Bench Press: 130kg, Deadlift: 220kg Total: 540kg)💪🏼
+  I have a healthy body and enjoy fitness.🏋🏻‍♂️ (S.B.D Total: 540kg)💪🏼
   
   My dream is to create products that can make your life better and more enjoyable.⭐️
-  
-  Let's make great products together!🙌
 </span>
 </div>
 
