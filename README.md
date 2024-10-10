@@ -1,12 +1,9 @@
 <img src="https://img.shields.io/badge/mkiz0403@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/>
 
-Hi! Welcome to Taejeong Github.👋 
-
-I'm studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻 
-
-I have a healthy body and enjoy fitness. (S.B.D Total: 540kg 💪🏼)
-
-My dream is to create products that can make your life better and more enjoyable.
+Hi! Welcome to Taejeong Github.👋 </br>
+I'm studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻 </br>
+I have a healthy body and enjoy fitness. (S.B.D Total: 540kg 💪🏼)</br>
+My dream is to create products that can make your life better and more enjoyable.</br>
 
 </br>
 
