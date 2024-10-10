@@ -30,7 +30,7 @@ My dream is to create products that can make your life better and more enjoyable
 <div> 
   <img src="https://img.shields.io/badge/Git-121212?style=flat&logo=Git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Vercel-121212?style=flat&logo=Vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-121212?style=flat&logo=Firebase&logoColor=DD2C00"/>
+  <img src="https://img.shields.io/badge/Firebase-121212?style=flat&logo=Firebase&logoColor=fec712"/>
   <img src="https://img.shields.io/badge/Amazon EC2-121212?style=flat&logo=Amazon EC2&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Supabase-121212?style=flat&logo=Supabase&logoColor=3FCF8E"/>
 </div>
