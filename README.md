@@ -1,4 +1,7 @@
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mkiz0403@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/mkiz0403@gmail.com-121212?style=flat&logo=Gmail&logoColor=EA4335"/>
+</a>
+
 
 Hi! Welcome to Taejeong Github.👋 </br>
 I'm studying **React, Node.js, and TypeScript** with the goal of becoming a skilled **front-end developer**.🧑🏻‍💻 </br>
