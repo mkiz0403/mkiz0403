@@ -39,8 +39,3 @@ My dream is to create products that can make your life better and more enjoyable
   <img src="https://img.shields.io/badge/figma-121212?style=flat&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/slack-121212?style=flat&logo=slack&logoColor=9333ea"/>
 </div>
-
-![Taejeong Jeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkiz0403&show_icons=true&theme=default)
-
-
-
