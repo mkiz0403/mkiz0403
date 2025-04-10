@@ -13,6 +13,7 @@ My dream is to create products that can make your life better and more enjoyable
 **Platforms & Languages**
 
 <div>
+  <img src="https://img.shields.io/badge/React-121212?style=flat&logo=ReactNative&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React-121212?style=flat&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/javascript-121212?style=flat&logo=Javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Typescript-121212?style=flat&logo=Typescript&logoColor=3178C6"/>
